@@ -1,0 +1,76 @@
+==================================================================
+https://keybase.io/teriiehina
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://teriiehina.net
+  * I am teriiehina (https://keybase.io/teriiehina) on keybase.
+  * I have a public key with fingerprint 4AC0 0707 583F B83F 8376  C342 10B6 E4A1 C604 35EE
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "4ac00707583fb83f8376c34210b6e4a1c60435ee",
+            "host": "keybase.io",
+            "key_id": "10B6E4A1C60435EE",
+            "uid": "307be79dc09ce01fafc80087fdd83000",
+            "username": "teriiehina"
+        },
+        "merkle_root": {
+            "ctime": 1412978620,
+            "hash": "3876c1a3a5edebf297c472ec5f6cbefb276530d99068fec012a6b7cd677c0c6944ac511c39428ea10029694a6d0a5b714ddc3fd0a9b021b56601112499ffb3eb",
+            "seqno": 76831
+        },
+        "service": {
+            "hostname": "teriiehina.net",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412978799,
+    "expire_in": 157680000,
+    "prev": "8aaded40970bc3a49e13ffc5d0e594d87f72a1fe0287744b8f4a95dccf24f6b6",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFlUm9oVlUYv++cpUGQBlIkNC9kZOPlnPvv3PO2GaYzbPYhkJFIvJw/z9l79+fe
+233vpm9zbllWK7A+BFF9EBUiFoWrFDT2p1YgpeAQibaSqAkq1dYHKSZm54xFSR8O
+nOd5fuf3/H7Pc964c5lVV9jycWV905HRewvfXOHWjvDppM/miazZpT5bdEUQ5+YW
+s26wS3Yn1DirQjFKGuJEQrGj2rCEabR7IatGSaxRqEiKjt3faODmsYridsjSLDJc
+tscEQgQRP3QV1yd0SSBcz8GIB+AxLALkuT6Apqwk1fyWrvYiZzmSOovRY0GLtwlv
+XsS3tOhaz2LBRYQDoVIgKgBhxZQIEQqJkjJ0EUIGWIVsyVIOWRRBJYqZUdwNWWcX
+lLMkWbQt8siAsIcdSsLAQVoTq1ZMk1CrxsxlPkjgSpeFRxwQvgoEB8UdEvgukpSi
+IFQgEHZYwImQASECiYB6egw+xsKlnhMCwwg5VGdZIBHzOcGelMJVOqAcOZj7QYAw
+xo5HqVLcBa5NVOHZOLFLJAhd3G/CrDcSYGSbuf3PXjEGs6Y0S/JEJF26VsnztGRc
+57XUYHcfA15eoinzKJZ6b/9drOly60QIpY027EmjDMqRQfhajR4xMn2gV3OGjEmQ
+HqIEceEyjwJ2lRK+ROBTT+qtEIdhBcgJCfE8HiqPUV8KoRxPBTz416erdbJ2TVmN
+2mOW92Rg9w8V1tZbhTrrtuV15udad6y865/vPLnz9r9K574/dnL7d6e/QmpiVK5r
+mHp0z9fT11/bNTfWBc+Vfjr+VnE2+vzi7N3TMxOHh619U7+tqZ++NnTinQf3N63t
+Pvre9I2RDeNv96z49PH9czu/KJ8SbYNHfuiYGew9bj+y6sN72l6aG99YuryqpWEE
+PbO1nMb+4P3W8oMr6/e1nloY6/zoz5HVB59Kmzfv/eRy67q+gQ8Wfm46c/6BC688
+/PuaidrFa3P05qXt863L7ms78eah1Sd/md/W/GPr4aHJrf1PpkdvTE2es7ddHZ5S
+hzYOD1x/4f29704c2HJ1oJCetTpWZC/uOl3ZMf5yTW6o3fzs9YUnfv3yQHH38zPN
+o2ObXrUurY/+mC99+9Dslb8B
+=nS9y
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/teriiehina
+
+==================================================================

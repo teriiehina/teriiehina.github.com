@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When freelancing isn't an option
+title: When 
 categories:
 - freelancing
 status: publish

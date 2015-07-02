@@ -2,7 +2,7 @@
 layout: post
 title: When freelancing isn't an option
 categories:
-- Void
+- freelancing
 status: publish
 type: post
 published: true

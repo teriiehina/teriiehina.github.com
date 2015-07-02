@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When 
+title: When freelancing is the obvious choice
 categories:
 - freelancing
 status: publish

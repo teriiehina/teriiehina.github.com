@@ -8,7 +8,7 @@ type: post
 published: true
 ---
 
-It has been more than 6 weeks since [my last day at my previous] job(https://wearemobiledevelopers.wordpress.com/2015/05/12/so-long-and-thanks-for-all-the-fish/). Since then, my girlfriend and I did a road trip around Iceland, I got some last beers with friends and colleagues in Paris and finally got back to the small island I was born in: Tahiti.
+It has been more than 6 weeks since [my last day at my previous job](https://wearemobiledevelopers.wordpress.com/2015/05/12/so-long-and-thanks-for-all-the-fish/). Since then, my girlfriend and I did a road trip around Iceland, I got some last beers with friends and colleagues in Paris and finally got back to the small island I was born in: Tahiti.
 
 I've been searching opportunities here and understood something I wasn't expecting: in Computer Sciences, in Tahiti, there is a lot of work here, but not a lot of jobs. Which means that if one wants to make a living from one's coding skill, searching a wage-earning position will not be fruitful.
 

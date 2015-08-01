@@ -1,44 +1,35 @@
 <!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <!-- syntax highlighting CSS -->
-        <link rel="stylesheet" href="/css/syntax.css">
+  <title>{{ site.name }}{% if page.title %} - {{ page.title }}{% endif %}</title>
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="alternate" type="application/rss+xml" title="My Blog" href="/rss.xml">
+  <link rel="stylesheet" href="/assets/css/highlight.css">
+</head>
+<body>
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+  {% include navigation.html %}
 
-    </head>
-    <body>
+  {% if page.profile %}
+      {% include profile.html %}
+  {% endif %}
 
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
+  <section id="wrapper" class="{% if page.profile %}home{% endif %}">
+    {{ content }}
+  </section>
 
-          {{ content }}
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+  <script src="/assets/js/main.js"></script>
+  <script src="/assets/js/highlight.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
 
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Peter MEUEL<br />
-                Playing with computers<br />
-                teriiehina@gmail.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/teriiehina">github.com/teriiehina</a><br />
-                <a href="https://twitter.com/teriiehina">twitter.com/teriiehina</a><br />
-              </p>
-            </div>
-          </div>
-        </div>
-
-    </body>
+</body>
 </html>
+
+
+

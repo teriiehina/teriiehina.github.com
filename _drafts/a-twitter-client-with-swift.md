@@ -1,1 +1,0 @@
-https://medium.com/swift-programming/swift-cocoapods-da09d8ba6dd2
